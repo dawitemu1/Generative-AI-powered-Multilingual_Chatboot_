@@ -11,7 +11,7 @@ A Retrieval-Augmented Generation (RAG) chatbot designed for financial sector Q&A
 | **LLM**            | LLaMA 2 (via Ollama/Hugging Face) + DeepSeek                                    |
 | **Embeddings**     | `sentence-transformers/all-MiniLM-L6-v2`                                        |
 | **Vector Store**   | FAISS (local) / Pinecone (cloud)                                               |
-| **RAG Framework**  | LangChain                                                                       |
+| **RAG Framework**  | LangChain   (ollama or hanging face )                                                                    |
 | **Backend**        | FastAPI (REST) / Flask (WSGI)                                                  |
 | **Frontend**       | Streamlit (prototyping) / React (production)                                   |
 | **Deployment**     | Docker + AWS/GCP (optional)                                                    |
