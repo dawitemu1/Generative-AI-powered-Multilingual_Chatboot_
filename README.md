@@ -1,4 +1,4 @@
-# 💬 Financial Sector Chatbot with LLaMA 2 & DeepSeek
+# 💬 Financial Sector Chatbot with LlaMa-3 & DeepSeek
 
 A Retrieval-Augmented Generation (RAG) chatbot designed for financial sector Q&A, leveraging **LLaMA 2**, **DeepSeek**, and advanced NLP pipelines. Built for accuracy, security, and scalability.
 
